@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925440637758",
+    "firebase_url": "https://firepractice-42025.firebaseio.com",
+    "project_id": "firepractice-42025",
+    "storage_bucket": "firepractice-42025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925440637758:android:eb2fc1203f1ef6f6f2ca6f",
+        "android_client_info": {
+          "package_name": "edu.tomerbu.lec10contentprovidersservicesbroadcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925440637758-81sqeiqoot8ouh6bdn6orjc5kpitik0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.tomerbu.lec10contentprovidersservicesbroadcast",
+            "certificate_hash": "35a095b3d1cbf620dee16ffe5f1a3f6f4a461fa6"
+          }
+        },
+        {
+          "client_id": "925440637758-42o104ate1fvjhv709ldr9qe412fv594.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0OCx8Ia3pPg4oVWqH_Dl1EfBdp4wsuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925440637758-42o104ate1fvjhv709ldr9qe412fv594.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
